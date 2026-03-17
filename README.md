@@ -2,9 +2,10 @@
   <h1>Hi 👋, I'm Resul</h1>
   <h4>Cyber Security Enthusiast | Mechanical Engineering Student</h4>
 </div>
+<img width="2912" height="1440" alt="Gemini_Generated_Image_ujngqgujngqgujng" src="https://github.com/user-attachments/assets/03b90379-59ca-460a-9ca0-39dec426a2ea"
 
 <div align="center">
-  <img width="640" height="640" alt="banner" src="https://github.com/user-attachments/assets/94b5d5b5-419a-4b08-beed-de1692ec4ef1"  width="100%" >
+  <img width="2912" height="1440" alt="Gemini_Generated_Image_ujngqgujngqgujng" src="https://github.com/user-attachments/assets/03b90379-59ca-460a-9ca0-39dec426a2ea"  width="100%" >
 </div>
 
 ## 🌐 Connect with me:
@@ -27,7 +28,7 @@
 
 ## 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[KULLANICI_ADIN]&show_icons=true&theme=tokyonight" alt="resulcetin09's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=resulcetin09&show_icons=true&theme=tokyonight" alt="resulcetin09's GitHub Stats" />
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=resulcetin09&layout=compact&theme=tokyonight" alt="Top Languages" />
   <br><br>
