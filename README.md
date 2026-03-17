@@ -98,4 +98,3 @@ interests  : Penetration Testing · Web Security · CTF Challenges
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a3e,100:0d0d0d&height=100&section=footer" width="100%" />
 </div>
-
