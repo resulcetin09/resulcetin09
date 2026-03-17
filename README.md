@@ -21,6 +21,12 @@ interests  : Penetration Testing · Web Security · CTF Challenges
 
 ---
 
+
+![banner1](https://github.com/user-attachments/assets/94bfc900-2697-4213-bcd3-72a38c813cc3)
+
+
+---
+
 ### 🌐 Connect with Me
 
 <div align="center">
