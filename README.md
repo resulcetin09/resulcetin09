@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi 👋, I'm Resul</h1>
-  <h4>Cyber Security Enthusiast | Software Developer</h4>
+  <h4>Cyber Security Enthusiast | Mechanical Engineering Student</h4>
 </div>
 
 <div align="center">
@@ -25,18 +25,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40" />
 </p>
 
-### Cyber Security & Systems
-<p align="left">
-  <img src="https://img.shields.io/badge/Metasploit-045DE9?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
-</p>
-
 ## 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[KULLANICI_ADIN]&show_icons=true&theme=tokyonight" alt="[KULLANICI_ADIN]'s GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[KULLANICI_ADIN]&show_icons=true&theme=tokyonight" alt="resulcetin09's GitHub Stats" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[KULLANICI_ADIN]&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=resulcetin09&layout=compact&theme=tokyonight" alt="Top Languages" />
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[KULLANICI_ADIN]&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=resulcetin09&theme=tokyonight" alt="GitHub Streak" />
 </div>
