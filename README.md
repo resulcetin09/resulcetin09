@@ -2,7 +2,6 @@
   <h1>Hi 👋, I'm Resul</h1>
   <h4>Cyber Security Enthusiast | Mechanical Engineering Student</h4>
 </div>
-<img width="2912" height="1440" alt="Gemini_Generated_Image_ujngqgujngqgujng" src="https://github.com/user-attachments/assets/03b90379-59ca-460a-9ca0-39dec426a2ea"
 
 <div align="center">
   <img width="2912" height="1440" alt="Gemini_Generated_Image_ujngqgujngqgujng" src="https://github.com/user-attachments/assets/03b90379-59ca-460a-9ca0-39dec426a2ea"  width="100%" >
