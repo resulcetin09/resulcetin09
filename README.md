@@ -1,15 +1,7 @@
 <div align="center">
-  <h1>Hi 👋, I'm Resul</h1>
-  <h3>🛡️ Cyber Security Enthusiast &nbsp;·&nbsp; ⚙️ Mechanical Engineering Student</h3>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Resul;Cyber+Security+Enthusiast;Mechanical+Engineering+Student;Software+Developer" alt="Typing SVG" />
+  <br/>
 </div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/03b90379-59ca-460a-9ca0-39dec426a2ea" width="100%" />
-</div>
-
-<br/>
 
 ---
 
@@ -22,14 +14,10 @@ education  : Mechanical Engineering
 interests  : Penetration Testing · Web Security · CTF Challenges
 ```
 
-- 🛡️ Siber Vatan Projesi Blog Geliştiricisi
-- 🔭 Currently working on **Cyber Security Projects**
-- 🌱 Currently learning **Penetration Testing & Web Security**
-- 💬 Ask me about **HTML, CSS, Java, Linux, Cyber Security**
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,40:0a0a23,70:1a1a3e,100:0d1117&height=180&section=header&text=%3C%2F%3E%20Resul&fontSize=68&fontColor=00ff41&fontAlignY=42&desc=Cyber%20Security%20Enthusiast%20%7C%20Mechanical%20Engineering%20Student&descAlignY=64&descColor=79c0ff&animation=fadeIn" width="100%" />
+- 🛡️ Siber Vatan
+- 💬 **HTML, CSS, Java, Linux, Cyber Security**
+- 🌱 **Penetration Testing & Web Security**
+- 🔭 **Cyber Security Projects**
 
 ---
 
