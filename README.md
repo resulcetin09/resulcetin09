@@ -7,7 +7,7 @@
 
 
 <div align="center">
-  <img width="640" height="640" alt="banner" src="https://github.com/user-attachments/assets/94b5d5b5-419a-4b08-beed-de1692ec4ef1" width="100%" />
+  <img width="640" height="640" alt="banner" src="https://github.com/user-attachments/assets/94b5d5b5-419a-4b08-beed-de1692ec4ef1">
 </div>
 
 ## 🌐 Connect with me:
