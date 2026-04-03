@@ -71,13 +71,6 @@ interests  : Penetration Testing · Web Security · CTF Challenges
 
 ### 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=resulcetin09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00ff41&icon_color=79c0ff&text_color=c9d1d9" height="170" alt="GitHub Stats" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=resulcetin09&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" height="170" alt="Top Languages" />
-
-</div>
 
 <div align="center">
 
